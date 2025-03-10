@@ -1,4 +1,4 @@
-name: iris-feature-and-prediction-pipelines
+name: iris-feature-and-prediction-pips
 
 on:
   workflow_dispatch:
