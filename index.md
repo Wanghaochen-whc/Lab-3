@@ -3,7 +3,7 @@
 
 | Predicted | Actual (label)
 |--------|------- 
-| ![Iris](https://raw.githubusercontent.com/wanghaochen-whc/Software-Development-Technologies/refs/heads/main/assets/latest_iris.png) | ![Iris](https://raw.githubusercontent.com/wanghaochen-whc/Software-Development-Technologies/refs/heads/main/assets/actual_iris.png) 
+| ![Iris]([https://raw.githubusercontent.com/wanghaochen-whc/Software-Development-Technologies/refs/heads/main/assets/latest_iris.png](https://raw.githubusercontent.com/Wanghaochen-whc/Lab-3/refs/heads/gh-pages/assets/latest_iris.png)) | ![Iris](https://raw.githubusercontent.com/wanghaochen-whc/Software-Development-Technologies/refs/heads/main/assets/actual_iris.png) 
 
  * Data source: synthetic data
  * Update frequency: daily
